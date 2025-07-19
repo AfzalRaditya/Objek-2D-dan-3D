@@ -94,7 +94,6 @@ python studio_grafika.py
   * `p` / `;`: Translasi kubus ke **atas/bawah** (sumbu Y).
   * `.` / `/`: Translasi kubus **mendekat/menjauh** (sumbu Z).
   * `f`: Rotasi manual pada sumbu **X**.
-  * `g`: Rotasi manual pada sumbu **Y**.
   * `H` (Shift + h): Rotasi manual pada sumbu **Z**.
   * `A` (Shift + a): **Aktifkan/Nonaktifkan rotasi otomatis** (spin) pada sumbu Y.
   * `0`: **Reset** posisi dan rotasi kubus ke keadaan semula.
